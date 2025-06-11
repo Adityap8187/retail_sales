@@ -199,7 +199,7 @@ GROUP BY shift_time;
 
 ## 📫 Contact
 
-For feedback or collaboration, feel free to reach out via GitHub Issues or www.linkedin.com/in/adityapathak8187(#).
+For feedback or collaboration, feel free to reach out via GitHub Issues or www.linkedin.com/in/adityapathak8187.
 
 ---
 
